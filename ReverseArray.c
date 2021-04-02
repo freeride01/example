@@ -16,7 +16,6 @@ int main(void){
 //	}
 	
 	puts("No need to print the original array.");
-	puts("Array in reverse:");
 	puts("Master change 1.");
 	
 	//Reverse the array
