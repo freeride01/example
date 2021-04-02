@@ -10,10 +10,10 @@ int main(void){
 	int i, j;
 	
 	//Print array
-	puts("Array: ");
-	for(i = 0; i <= SIZE - 1; i++){
-		printf("%d ", array[i]);
-	}
+//	puts("Array: ");
+//	for(i = 0; i <= SIZE - 1; i++){
+//		printf("%d ", array[i]);
+//	}
 	
 	puts("This is the original array.");
 	
