@@ -22,6 +22,7 @@ int main(void){
 	puts("MASTER CHANGE 4.");
 	puts("MASTER CHANGE 5.");
 	puts("MASTER CHANGE 6.");
+	puts("MASTER CHANGE 7.");
 	
 	//Reverse the array
 	for(i = SIZE-1, j = 0; i >= 0, j <= SIZE-1; i--, j++){		
