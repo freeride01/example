@@ -16,6 +16,7 @@ int main(void){
 //	}
 	
 	puts("No need to print the original array.");
+	puts("Array in reverse:");
 	
 	//Reverse the array
 	for(i = SIZE-1, j = 0; i >= 0, j <= SIZE-1; i--, j++){		
