@@ -15,7 +15,7 @@ int main(void){
 //		printf("%d ", array[i]);
 //	}
 	
-	puts("This is the original array.");
+	puts("No need to print the original array.");
 	
 	//Reverse the array
 	for(i = SIZE-1, j = 0; i >= 0, j <= SIZE-1; i--, j++){		
