@@ -19,6 +19,7 @@ int main(void){
 	puts("Array in reverse:");
 	puts("Master change 1.");
 	puts("MASTER CHANGE 2.");
+	puts("MASTER CHANGE 3.");
 	
 	//Reverse the array
 	for(i = SIZE-1, j = 0; i >= 0, j <= SIZE-1; i--, j++){		
