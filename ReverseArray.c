@@ -17,7 +17,6 @@ int main(void){
 //		printf("%d ", array[i]);
 //	}
 	
-	puts("No need to print the original array.");
 	puts("Master change 1.");
 	puts("MASTER CHANGE 2.");
 	puts("MASTER CHANGE 3.");
